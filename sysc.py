@@ -1,4 +1,5 @@
-import sys,os,decimal
+import sys,os,base64
+f=12
 s=6
 v=18
 o=12
