@@ -1,4 +1,5 @@
-import sys,os,importlib
+import sys,os,decimal
+s=6
 v=18
 o=12
 e=6
