@@ -1,4 +1,5 @@
-import sys,os,multiprocessing
+import sys,os,gzip
+l=6
 x=18
 f=12
 s=6
